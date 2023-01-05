@@ -1,8 +1,8 @@
- # ReadMe Generator
+ # ReadMe Regenerator
 ![Github License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-ReadMe Generator using node
+ReadMe generator using node
 ## Table of Contents
 * [Installation](#installation)
 
@@ -24,7 +24,7 @@ npm i
 
 ## Usage
 Video Demonstration:
-ReadMe NodeGenarator\Assets\Demo\ReadMe Demo
+ReadMeRegenerator\Assets\Demo
 
 ## License
 This project is licensed under the MIT license.
